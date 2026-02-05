@@ -60,14 +60,3 @@
         <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/4d203acd-eb00-47b6-89f5-2585ba09f1c1" />
       </div>  
     </p>
-
-      
-
-
-  * 
-  
-  *  
-    
-    
-
-  
