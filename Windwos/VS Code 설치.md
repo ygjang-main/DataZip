@@ -1,6 +1,7 @@
 # Visual Studio Code(Windows) 설치
 
   1. 설치 파일 다운로드 : https://code.visualstudio.com/
+
   <div style="text-align: center;">
     <img width="600" height="400" alt="VS Code 설치 파일 다운로드" src="https://github.com/user-attachments/assets/a8f2f189-c9b4-46e5-99cd-db7e7b739f60" />
   </div>
