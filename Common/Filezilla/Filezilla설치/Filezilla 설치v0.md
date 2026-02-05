@@ -6,8 +6,15 @@
    - Download Filezilla client 클릭    
    <div style="text-align: center;">
       <img width="600" height="400" alt="Filezilla 설치" src="https://github.com/ygjang-main/DataZip/blob/main/Common/Filezilla/Filezilla설치/image.png" />
-    </div>
+   </div>
+   <br/>
+   - Windows 또는 macOS를 클릭하고 Download Filezilla client 클릭  
+   <div style="text-align: center;">
+      <img width="600" height="400" alt="E Filezillaoa" src="https://github.com/user-attachments/assets/16833068-2ba5-4254-9c63-c8f0d18324d5" />
+   </div>  
 </p>
+
+
 
 
     
