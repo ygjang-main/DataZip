@@ -2,7 +2,7 @@
 - 오픈 소스 FTP 클라이언트 프로그램     
 
 <p>
-1. Filezilla 다운로드 : https://filezilla-project.org/  
+1. Filezilla 다운로드 : https://filezilla-project.org/<br/>  
    - Download Filezilla client 클릭    
    <div style="text-align: center;">
       <img width="600" height="400" alt="Filezilla 설치" src="https://github.com/ygjang-main/DataZip/blob/main/Common/Filezilla/Filezilla설치/image.png" />
