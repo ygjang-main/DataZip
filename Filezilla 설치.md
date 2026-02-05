@@ -1,9 +1,18 @@
 # Filezill 설치(Windows, macOS)     
 - 오픈 소스 FTP 클라이언트 프로그램     
 
-1.  
+<p>
+1. Filezilla 다운로드 : https://filezilla-project.org/  
+   - Download Filezilla client 클릭    
+   <div style="text-align: center;">
+    ![alt text](image.png)
+    </div>
+</p>
 
 
+    
+      <img width="600" height="400" alt="VS Code 설치 파일 다운로드" src="https://github.com/user-attachments/assets/a8f2f189-c9b4-46e5-99cd-db7e7b739f60" />
+   
 
 1. FileZilla 설치(macOS 기준)
 (1) 다운로드 URL : https://filezilla-project.org/download.php?platform=macos-arm64
