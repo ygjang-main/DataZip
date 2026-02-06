@@ -2,18 +2,49 @@
 - 오픈 소스 FTP 클라이언트 프로그램     
 
 <p>
-1. Filezilla 다운로드 : https://filezilla-project.org/<br/>  
-   - Download Filezilla client 클릭    
-   <div style="text-align: center;">
-      <img width="600" height="400" alt="Filezilla 설치" src="https://github.com/ygjang-main/DataZip/blob/main/Common/Filezilla/Filezilla설치/image.png" />
-   </div>
+   1. Filezilla 다운로드 : https://filezilla-project.org/<br/>  
+      - Download Filezilla client 클릭    
+      <div style="text-align: center;">
+         <img width="600" height="400" alt="Filezilla 설치" src="https://github.com/ygjang-main/DataZip/blob/main/Common/Filezilla/Filezilla설치/image.png" />
+      </div>
+      <br/>
+      - Windows 또는 macOS를 클릭하고 Download Filezilla client 클릭  
+      <div style="text-align: center;">
+         <img width="600" height="400" alt="E Filezillaoa" src="https://github.com/user-attachments/assets/16833068-2ba5-4254-9c63-c8f0d18324d5" />
+      </div>
+      <br/>
+      - Download 클릭
+      <div style="text-align: center;">
+         <img width="600" height="400" alt="스크린샷 2026-02-06 194025" src="https://github.com/user-attachments/assets/842892d8-6337-42ba-83e0-d3a4eb35c63a" />
+      </div>
+</p>
+<p>
+   2. [I Agree 선택] >> [Next > ] >> [Next > ] >> 경로 지정하고 [Next > ]  >> [Install] >> [Finish]
    <br/>
-   - Windows 또는 macOS를 클릭하고 Download Filezilla client 클릭  
-   <div style="text-align: center;">
-      <img width="600" height="400" alt="E Filezillaoa" src="https://github.com/user-attachments/assets/16833068-2ba5-4254-9c63-c8f0d18324d5" />
-   </div>  
+      <div style="text-align: center;">
+         <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/920181e3-165d-4d52-9902-eb48404f8a1f" />   
+      </div>
+   <br/>
+      <div style="text-align: center;">
+         <img width="500" height="384" alt="image" src="https://github.com/user-attachments/assets/bb0a460b-4e5f-4b5d-b6b9-a885030c4b44" />
+      </div>
+   <br/>
+      <div style="text-align: center;">
+         <img width="497" height="380" alt="image" src="https://github.com/user-attachments/assets/34bca08b-dd02-400f-b6d4-613c93f05292" />
+      </div>
+   <br/>
+      <div style="text-align: center;">
+         <img width="492" height="385" alt="image" src="https://github.com/user-attachments/assets/c22e9be3-84a7-4bd5-8bf8-ce74b324b3f0" />
+      </div>
+   <br/>         
 </p>
 
+
+
+
+
+<img width="775" height="532" alt="image" src="https://github.com/user-attachments/assets/2891dad1-57cd-4e41-9482-eecb49338410" />
+<img width="496" height="385" alt="image" src="https://github.com/user-attachments/assets/487ac2f7-3bd8-4cb8-8b9b-75b605d4ddf5" />
 
 
 
