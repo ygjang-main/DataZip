@@ -1,5 +1,6 @@
 # Filezill 설치(Windows, macOS)     
 - 오픈 소스 FTP 클라이언트 프로그램     
+<img width="1001" height="308" alt="image" src="https://github.com/user-attachments/assets/4815ed80-cd91-4b39-ba95-be05c9800aa2" />
 
 <p>
    1. Filezilla 다운로드 : https://filezilla-project.org/<br/>  
