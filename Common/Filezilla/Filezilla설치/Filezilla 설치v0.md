@@ -1,4 +1,4 @@
-# Filezill 설치(Windows, macOS)     
+# Filezilla 설치(Windows, macOS)     
 - 오픈 소스 FTP 클라이언트 프로그램     
 
 <p>
